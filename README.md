@@ -1,5 +1,4 @@
-# Prontuario_medico
-Programa para uso de um Prontuário medico pessoal
+# Programa para uso de um Prontuário medico pessoal
 
 - O programa escrito em C# / Forms com banco de dados com banco SQL/Server
 
